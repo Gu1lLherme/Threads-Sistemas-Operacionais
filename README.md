@@ -1,6 +1,6 @@
 # Implementação de Algoritmos com Threads em Sistemas Operacionais
 
-### Estudo de Caso
+## Estudo de Caso
 Uma empresa de logística está enfrentando dificuldades para otimizar o processamento de
 pedidos em seu sistema. A cada novo pedido recebido, o sistema realiza várias operações,
 como validação de dados, conferência de estoque, cálculo de frete e emissão de nota fiscal.
